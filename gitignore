@@ -1,0 +1,16 @@
+# Archivos de RStudio
+.Rproj.user/
+.Rhistory
+.RData
+
+# Datos que superan 50 MB (ver README para descargarlos)
+data/ine/2018/
+data/ine/2021/
+data/ine/2024/
+data/inegi/
+ged261-csv/
+ged261-csv.zip
+*.zip
+
+# Archivos temporales de Word
+~$*

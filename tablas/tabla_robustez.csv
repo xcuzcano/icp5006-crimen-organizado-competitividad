@@ -1,0 +1,14 @@
+Variable,Binarias,VeB solo campañas,VeB con policías,Solo 2018,Solo 2021,Solo 2024
+Violencia del crimen organizado (log),,"-0,158*** (0,032)","-0,145*** (0,033)","-0,110 (0,092)","-0,174** (0,056)","-0,106** (0,034)"
+Hubo violencia del crimen organizado (0/1),"-0,052 (0,062)",,,,,
+Violencia político-criminal (log),,,,"-0,102 (0,146)","-0,125 (0,162)","-0,046 (0,084)"
+"Violencia político-criminal, solo campañas (log)",,"-0,040 (0,085)",,,,
+"Violencia político-criminal, con policías (log)",,,"-0,127* (0,064)",,,
+Hubo violencia político-criminal (0/1),"-0,095 (0,060)",,,,,
+Violencia en municipios vecinos (log),"0,100** (0,035)","0,119*** (0,034)","0,120*** (0,034)","-0,077 (0,126)","0,187*** (0,052)","0,122** (0,042)"
+Tamaño del municipio (log lista nominal),"0,140*** (0,015)","0,150*** (0,015)","0,153*** (0,015)","0,167*** (0,019)","0,202*** (0,025)","0,081*** (0,016)"
+Constante,"1,563*** (0,271)","1,445*** (0,273)","1,414*** (0,273)","1,922*** (0,264)","1,397*** (0,420)","1,631*** (0,259)"
+Efectos fijos de estado,Sí,Sí,Sí,Sí,Sí,Sí
+Efectos fijos de año,Sí,Sí,Sí,Un solo año,Un solo año,Un solo año
+Observaciones,5.321,5.321,5.321,1.606,1.918,1.797
+R² ajustado,"0,24","0,24","0,24","0,14","0,26","0,22"

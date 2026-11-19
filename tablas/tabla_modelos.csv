@@ -1,0 +1,10 @@
+Variable,M1,M2,M3,M4
+Violencia del crimen organizado (log),"0,019 (0,033)","-0,133*** (0,032)","-0,122*** (0,032)","-0,149*** (0,032)"
+Violencia político-criminal (log),,,"-0,117+ (0,071)","-0,119+ (0,071)"
+Violencia en municipios vecinos (log),,,,"0,119*** (0,034)"
+Tamaño del municipio (log lista nominal),,"0,151*** (0,015)","0,154*** (0,015)","0,153*** (0,015)"
+Constante,"3,222*** (0,022)","1,432*** (0,273)","1,399*** (0,274)","1,420*** (0,273)"
+Efectos fijos de estado,No,Sí,Sí,Sí
+Efectos fijos de año,No,Sí,Sí,Sí
+Observaciones,5.321,5.321,5.321,5.321
+R² ajustado,"0,00","0,24","0,24","0,24"

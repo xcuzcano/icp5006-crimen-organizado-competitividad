@@ -1,0 +1,17 @@
+tipo,eventos,nec,ic_inf,ic_sup
+En el propio municipio (H1),0,3.237,3.201,3.274
+En el propio municipio (H1),1,3.134,3.086,3.182
+En el propio municipio (H1),2,3.073,3.006,3.141
+En el propio municipio (H1),5,2.97,2.862,3.078
+En el propio municipio (H1),10,2.879,2.735,3.024
+En el propio municipio (H1),20,2.783,2.598,2.968
+En el propio municipio (H1),50,2.65,2.41,2.891
+En el propio municipio (H1),100,2.548,2.265,2.831
+Promedio en municipios vecinos (H2),0,3.201,3.164,3.239
+Promedio en municipios vecinos (H2),1,3.284,3.234,3.334
+Promedio en municipios vecinos (H2),2,3.332,3.26,3.404
+Promedio en municipios vecinos (H2),5,3.415,3.3,3.529
+Promedio en municipios vecinos (H2),10,3.487,3.333,3.641
+Promedio en municipios vecinos (H2),20,3.564,3.367,3.76
+Promedio en municipios vecinos (H2),50,3.669,3.414,3.925
+Promedio en municipios vecinos (H2),100,3.751,3.45,4.052
